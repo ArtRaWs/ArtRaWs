@@ -1,23 +1,10 @@
 # 👋 Olá, eu sou Arthur Ricardo (`ArtRaWs`)
 
-<h3>
+<h4>
 Estudante de Sistemas de Informação (BSI) na UFRPE | Desenvolvedor full-stack focado em arquitetura de software, APIs modernas, sistemas backend  robustos e soluções escaláveis.
-</h3>
+</h4>
 
 
----
-
-## 🚀 Sobre mim
-
-* 🎓 Graduando em **Bacharelado em Sistemas de Informação** na **UFRPE**
-* 💻 Desenvolvedor com foco em backend e arquitetura de software
-* ⚙️ Experiência com APIs REST, FastAPI, banco de dados e organização em camadas
-* 🌱 Interesse em inovação, sustentabilidade e tecnologia aplicada
-* 📚 Sempre estudando arquitetura, boas práticas e escalabilidade
-
----
-
-# 🛠️ Tecnologias e Ferramentas
 
 ## 💻 Linguagens & Frameworks
 
@@ -56,11 +43,15 @@ Estudante de Sistemas de Informação (BSI) na UFRPE | Desenvolvedor full-stack 
 
 ---
 
+
 # 🔥 GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ArtRaWs&theme=tokyonight&hide_border=false" />
 </div>
+
+---
+
 
 
 
@@ -79,7 +70,7 @@ Estudante de Sistemas de Informação (BSI) na UFRPE | Desenvolvedor full-stack 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
 
-  <a href="[https://linkedin.com/in/arthurricardo](https://www.linkedin.com/in/arthur-ricardo-6700252a5/)" target="_blank">
+  <a href="www.linkedin.com/in/arthur-ricardo-6700252a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
 </div>
